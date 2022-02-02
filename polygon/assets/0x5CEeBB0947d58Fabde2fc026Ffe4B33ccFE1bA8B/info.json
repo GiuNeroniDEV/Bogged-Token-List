@@ -1,0 +1,18 @@
+{
+    "name": "4INT",
+    "website": "https://forintfinance.com/",
+    "telegram": "https://t.me/ForintFinance",
+    "discord": "https://discord.gg/WgG2nzRf",
+    "twitter": "https://twitter.com/ForintFinance",
+    "description": "Forint Finance is the Definitive Platform that allows you to buy and to swap Cryptocurrencies, to launch your projects (IDOs), to provide support on your tax obligations, and to create and trade NFTs, Goods, and Services on a dedicated Marketplace.",
+    "explorer": "https://polygonscan.com/token/0x5ceebb0947d58fabde2fc026ffe4b33ccfe1ba8b",
+    "type": "POLYGON",
+    "symbol": "4INT",
+    "decimals": 9,
+    "slippage": 0,
+    "status": "active",
+    "id": "0x5CEeBB0947d58Fabde2fc026Ffe4B33ccFE1bA8B",
+    "audits": [
+        "https://github.com/GiuNeroniDEV/Forint/blob/main/Audit%204INT.pdf"
+    ]
+}
